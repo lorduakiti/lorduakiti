@@ -15,6 +15,8 @@
 ###### Data Analyst and Software Developer
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/lorduakiti/github-readme-stats)
+
 ### :wave: About me
 
 ###### Acting in area of technological innovation, helping companies develop software with a focusing on solutions from data analysis and database. Working in the IT market for more than 10 years experience, in projects and team management, having graduate Mechatronics Engineering and specialization in Project Management. 
