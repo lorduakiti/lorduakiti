@@ -15,10 +15,10 @@
 ###### Data Analyst and Software Developer
 
 <p align = "center">
-  <a href="https://github.com/joaorceschini/">
+  <a href="https://github.com/lorduakiti/">
     <img src="https://github-readme-stats.vercel.app/api?username=lorduakiti&show_icons=true&theme=react&line_height=27">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/lorduakiti/github-readme-stats)
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&theme=react">
+  </a>
 </p>
 
 ### :wave: About me
