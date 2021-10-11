@@ -1,4 +1,10 @@
 ## Uákiti Pires
+
+### :wave: About me
+
+###### Acting in area of technological innovation, helping companies develop software with a focusing on solutions from data analysis and database. Working in the IT market for more than 10 years experience, in projects and team management, having graduate Mechatronics Engineering and specialization in Project Management. 
+###### Without fear of trying to solve challenges in companies or organizations where I can undertake in terms of products, services, and processes. I always seek to improve the methods used from the integration and improvement of the team, with the main objective to help the development of people who work next to me, in an increasingly complex, connected and fast-paced world.
+
 - 🔭 I’m currently working on Big Data and BI
 - 🌱 I’m currently learning Python, React and NodeJS
 - 👯 I’m looking to collaborate on data projects
@@ -20,11 +26,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&theme=react">
   </a>
 </p>
-
-### :wave: About me
-
-###### Acting in area of technological innovation, helping companies develop software with a focusing on solutions from data analysis and database. Working in the IT market for more than 10 years experience, in projects and team management, having graduate Mechatronics Engineering and specialization in Project Management. 
-###### Without fear of trying to solve challenges in companies or organizations where I can undertake in terms of products, services, and processes. I always seek to improve the methods used from the integration and improvement of the team, with the main objective to help the development of people who work next to me, in an increasingly complex, connected and fast-paced world.
 
 
 ### 🚀 Technologies and Tools
