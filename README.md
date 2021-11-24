@@ -9,17 +9,18 @@
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile)
 
 ## Who am I? 
+###### Turning DATA into GOLD
 * 👨🏽‍💻 Data Analyst
 * 👨🏽‍🔬 Data Scientist
 * 👷🏽 Software Developer
-* 👨🏽‍💼 Business consultant
+* 👨🏽‍💼 Business Consultant
 * 👨‍🎓 Bachelor of Mecatronics - UNIP
 * 🎓 MBA in Project Management - UniCESP
 
 
 ## About me :wave: 
 * 🔭 I’m currently working on Big Data and BI 
-* 🌱 I’m currently learning Python, React and NodeJS 
+* 🌱 I’m currently learning Data Scientist, Python, React and NodeJS 
 * 👯 I’m looking to collaborate on data projects 
 
 ###### Acting in area of technological innovation, helping companies develop software with a focusing on solutions from data analysis and database. Working in the IT market for more than 10 years experience, in projects and team management, having graduate Mechatronics Engineering and specialization in Project Management. 
@@ -41,9 +42,9 @@
 
 
 ### Soft Skills 🛠 
-* 🎯 Agile Management 
-* 📅 Project Planning 
-* 📋 Process Automation
+* 🎯 Agile Management (SCRUM)
+* 📅 Project Planning (PMBoK)
+* 📋 Process Automation (BPM)
 * 📱 Digital Marketing 
 * 💰 Sales 
 
@@ -62,7 +63,7 @@
 * [WebScraping](https://github.com/lorduakiti)
 
 
-### 🚀 Technologies and Tools
+### Technologies and Tools 🚀
 
 <div class="row">
   <img src="https://img.ibxk.com.br/2016/01/29/29195518729636.jpg" alt="power bi" width="30" height="30"/>
