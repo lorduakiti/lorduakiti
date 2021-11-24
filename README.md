@@ -9,8 +9,10 @@
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile)
 
 ## Who am I? 
-* 👩‍💻 Data Scientist
-* 📊 Business consultant
+* 👨🏽‍💻 Data Analyst
+* 👨🏽‍🔬 Data Scientist
+* 👷🏽 Software Developer
+* 👨🏽‍💼 Business consultant
 * 👨‍🎓 Bachelor of Mecatronics - UNIP
 * 🎓 MBA in Project Management - UniCESP
 
@@ -55,9 +57,9 @@
 
 
 ### My projects 
-*  
-* 
-* 
+* [Churn Model](https://github.com/lorduakiti)
+* [Data Visualization](https://github.com/lorduakiti)
+* [WebScraping](https://github.com/lorduakiti)
 
 
 ### 🚀 Technologies and Tools
@@ -81,7 +83,7 @@
 </div>
 
 
-###### Data Analyst and Software Developer
+### Statistics
 
 <p align = "center">
   <a href="https://github.com/lorduakiti/">
