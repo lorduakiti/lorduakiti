@@ -1,31 +1,63 @@
-## Uákiti Pires
-
-### :wave: About me
-
-###### Acting in area of technological innovation, helping companies develop software with a focusing on solutions from data analysis and database. Working in the IT market for more than 10 years experience, in projects and team management, having graduate Mechatronics Engineering and specialization in Project Management. 
-###### Without fear of trying to solve challenges in companies or organizations where I can undertake in terms of products, services, and processes. I always seek to improve the methods used from the integration and improvement of the team, with the main objective to help the development of people who work next to me, in an increasingly complex, connected and fast-paced world.
-
-- 🔭 I’m currently working on Big Data and BI
-- 🌱 I’m currently learning Python, React and NodeJS
-- 👯 I’m looking to collaborate on data projects
+## Hi, I'm Uákiti Pires 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/lorduakiti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uakiti/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lorduakiti)](https://twitter.com/lorduakiti)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorduakiti@gmail.com)](mailto:lorduakiti@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](http://www.facebook.com/lorduakiti)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lorduakiti/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorduakiti@gmail.com)](mailto:uakiti.pires@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/uakitipires/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/uakitipires/)
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile)
 
+## Who am I? 
+* 👩‍💻 Data Scientist
+* 📊 Business consultant
+* 👨‍🎓 Bachelor of Mecatronics - UNIP
+* 🎓 MBA in Project Management - UniCESP
 
-###### Data Analyst and Software Developer
 
-<p align = "center">
-  <a href="https://github.com/lorduakiti/">
-    <img src="https://github-readme-stats.vercel.app/api?username=lorduakiti&show_icons=true&theme=react&line_height=27">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&theme=react">
-  </a>
-</p>
+## About me :wave: 
+* 🔭 I’m currently working on Big Data and BI 
+* 🌱 I’m currently learning Python, React and NodeJS 
+* 👯 I’m looking to collaborate on data projects 
+
+###### Acting in area of technological innovation, helping companies develop software with a focusing on solutions from data analysis and database. Working in the IT market for more than 10 years experience, in projects and team management, having graduate Mechatronics Engineering and specialization in Project Management. 
+###### Without fear of trying to solve challenges in companies or organizations where I can undertake in terms of products, services, and processes. I always seek to improve the methods used from the integration and improvement of the team, with the main objective to help the development of people who work next to me, in an increasingly complex, connected and fast-paced world.
+
+
+### Hard Skills 🛠 
+* 🗄 SQL 
+* 🧮 Power BI 
+* 🛠 MS Excel
+* 🎲 Data Analysis 
+* 📉 Business Intelligence
+* 📊 Data Visualization 
+* 📈 Data Science 
+* 🔮 Machine Learning  
+* 💻 Software Development 
+* 🐍 Python 
+* 🧩 NodeJS
+
+
+### Soft Skills 🛠 
+* 🎯 Agile Management 
+* 📅 Project Planning 
+* 📋 Process Automation
+* 📱 Digital Marketing 
+* 💰 Sales 
+
+
+### Hobbies 🖖 
+* 👾 Ethical Hacking 
+* 🤖 Robotics 
+* 🎻 Violin 
+* 🖼 Art 
+* 📽 Films 
+
+
+### My projects 
+*  
+* 
+* 
 
 
 ### 🚀 Technologies and Tools
@@ -48,18 +80,12 @@
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="docker">
 </div>
 
-### 🛠 Skills
-> 🎯 Agile Management 
-> 📅 Project Planning 
-> 💻 Software Development 
-> 📊 Data Analysis 
-> 📈 Data Science 
-> 📱 Digital Marketing 
-> 💰 Sales 
 
-### 🖖 Hobbies
-> 👾 Ethical Hacking 
-> 🤖 robotics 
-> 🎻 violin 
-> 🖼 art 
-> 📽 Films 
+###### Data Analyst and Software Developer
+
+<p align = "center">
+  <a href="https://github.com/lorduakiti/">
+    <img src="https://github-readme-stats.vercel.app/api?username=lorduakiti&show_icons=true&theme=react&line_height=27">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&theme=react">
+  </a>
+</p>
