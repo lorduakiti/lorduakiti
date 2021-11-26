@@ -28,9 +28,9 @@
 
 ###### I look for opportunities or challenging jobs, in data analysis using data science, machine learning, and artificial intelligence, in ​​the healthcare area or technological innovation, preferably.
 ###### I am an Information Technology professional with over ten years of experience in business intelligence projects and business performance indicators (KPI's) identification.
-###### I have experience in business analysis and innovation. Work in growth processes or maximizing operational and strategic results for companies, together with businesses or process automation (BPM).
-###### I'm not afraid of solving challenges, and that's why I always seek to undertake within companies and organizations, from the creation and improvement of products, services, and processes, thus improving the methods used by the team of people and customers. I've got the main objective, help the development of the integration and improvement of the team that works beside me, to solve even better the problems of an even more complex, connected, and fast world.
-###### I also have a specialization in Project Management (PMBoK), focused on agile management, and I have a degree in Mechatronics Engineering, with experience in robotics research groups.
+###### I have experience in business analysis and innovation. Work in growth processes or maximizing operational and strategic results for companies, together with businesses process automation (BPM).
+###### I'm not afraid of solving challenges, and that's why I always seek to undertake within companies and organizations, from the creation and improvement of products, services, and processes, thus improving the methods used by the team of people and customers. I've got the main objective, help the development of the integration and improvement team that works beside me, to solve even better the problems of an even more complex, connected, and fast world.
+###### I also have a specialization in Project Management (PMBoK), focused on agile management, and I've got a degree in Mechatronics Engineering, with experience in robotics research groups.
 
 
 ### Hard Skills 🛠 
