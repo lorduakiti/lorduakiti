@@ -9,7 +9,9 @@
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile)
 
 ## Who am I? 
-###### Turning DATA into GOLD
+<div class="row">
+  <b><p style="color:d4af37:">Turning DATA into GOLD</p></b>
+</div>
 * 👨🏽‍💻 Data Analyst
 * 👨🏽‍🔬 Data Scientist
 * 👷🏽 Software Developer
