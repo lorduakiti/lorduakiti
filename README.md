@@ -10,8 +10,9 @@
 
 ## Who am I? 
 <div class="row">
-  <b><p style="color:d4af37:">Turning DATA into GOLD</p></b>
+  <b><p style="color:d4af37 !important;">Turning DATA into GOLD</p></b>
 </div>
+
 * 👨🏽‍💻 Data Analyst
 * 👨🏽‍🔬 Data Scientist
 * 👷🏽 Software Developer
