@@ -58,9 +58,29 @@
 
 
 ### My projects 
-* [Churn Model](https://github.com/lorduakiti)
-* [Data Visualization](https://github.com/lorduakiti)
-* [WebScraping](https://github.com/lorduakiti)
+* [WebScraping](https://github.com/lorduakiti/webscraping-to-wordcloud)
+* Data Visualization (DataViz)
+* BI Insights
+* Reliability Analysis
+* Heart Disease Analysis
+* Customer Default Analysis
+* Stock Survival Analysis
+* Patient Survival Analysis
+* Product Survival Analysis
+* Targeted Marketing Campaign
+* Buy and selling of properties
+* Customer Lifetime Value
+* Delivery Performance
+* Property Pricing
+* Claims Forecast
+* Sales forecast
+* Natural Language Processing (NLP)
+* Reducing the Customer Turnover Rate (CHURN)
+* Recurrence of Crimes
+* Customer Satisfaction
+* Customer Segmentation
+* Recommendation System
+* Financial Credit Analysis
 
 
 ### Technologies and Tools 🚀
