@@ -59,8 +59,10 @@
 * 👾 Ethical Hacking 
 * 🤖 Robotics 
 * 🎻 Violin 
+* 🎸 Bass / Guitar
 * 🖼 Art 
 * 📽 Films 
+* 📸 Photography
 
 
 ### My projects 
