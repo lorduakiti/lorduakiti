@@ -48,6 +48,7 @@
 
 
 ### Soft Skills 🛠 
+* 🧩 Strategic Vision
 * 🎯 Agile Management (SCRUM)
 * 📅 Project Planning (PMBoK)
 * 📋 Process Automation (BPM)
