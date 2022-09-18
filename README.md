@@ -19,7 +19,7 @@
 * 👨🏽‍💼 Business Consultant
 * 👨‍🎓 Bachelor of Mecatronics - UNIP
 * 🎓 MBA in Project Management - UniCESP
-
+* 🎓 Data Expert - DNC  
 
 ## About me :wave: 
 * 🔭 I’m currently working on Big Data and BI 
