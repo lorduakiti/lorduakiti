@@ -7,6 +7,8 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/uakitipires/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/uakitipires/)
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile)
+[![Website Badge](https://lorduakiti.me/favicon.ico)](https://lorduakiti.me)
+[![Website Badge](https://lorduakiti.com.br/favicon.ico)](https://lorduakiti.com.br)
 
 ## Who am I? 
 <div class="row">
@@ -47,7 +49,7 @@
 * 🧩 NodeJS
 
 
-### Soft Skills 🛠 
+### Soft Skills 🤵
 * 🧩 Strategic Vision
 * 🎯 Agile Management (SCRUM)
 * 📅 Project Planning (PMBoK)
@@ -66,7 +68,7 @@
 * 📸 Photography
 
 
-### My projects 
+### My projects 🥋
 - [x] [WebScraping](https://github.com/lorduakiti/webscraping-to-wordcloud)
 - [ ] Data Visualization (DataViz)
 - [ ] BI Insights
@@ -102,6 +104,7 @@
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="nodejs">
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
   <img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" alt="sql server" width="30" height="30"/>
+  <img src="https://cdn.svgporn.com/logos/oracle.svg" alt="oracle" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="30" height="30"/> 
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="30" height="30"/> 
@@ -113,7 +116,7 @@
 </div>
 
 
-### Statistics
+### Statistics 📈
 
 <p align = "center">
   <a href="https://github.com/lorduakiti/">
