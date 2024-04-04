@@ -7,8 +7,8 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/uakitipires/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/uakitipires/)
 [![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile)
-[![Website Badge](https://lorduakiti.me/favicon.ico)](https://lorduakiti.me)
-[![Website Badge](https://lorduakiti.com.br/favicon.ico)](https://lorduakiti.com.br)
+[![Website Badge]()](https://lorduakiti.me)
+[![Website Badge]()](https://lorduakiti.com.br)
 
 ## Who am I? 
 <div class="row">
