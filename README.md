@@ -15,7 +15,7 @@
   <b><p style="color:#d4af37 !important;">Turning DATA into GOLD</p></b>
 </div>
 
-* 👨🏽‍💻 Data Analyst
+* 👨🏽‍💻 Data Analyst - DataTech Florida
 * 👨🏽‍🔬 Data Scientist - DataTech Florida
 * 🎓 Data Expert - DNC  
 * 👷🏽 Software Developer - X25
