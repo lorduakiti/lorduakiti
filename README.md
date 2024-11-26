@@ -92,7 +92,7 @@
 - [ ] Recurrence of Crimes
 - [ ] Customer Satisfaction
 - [ ] Customer Segmentation
-- [ ] Lead Score Analysis
+- [x] [Lead Score Analysis](https://github.com/lorduakiti/lead_score_prepi/)
 - [ ] Fraud Analysis
 - [ ] Recommendation System
 - [ ] Financial Credit Analysis
