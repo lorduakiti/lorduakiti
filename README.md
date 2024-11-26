@@ -16,16 +16,16 @@
 </div>
 
 * 👨🏽‍💻 Data Analyst
-* 👨🏽‍🔬 Data Scientist
-* 👷🏽 Software Developer
-* 👨🏽‍💼 Business Consultant
+* 👨🏽‍🔬 Data Scientist - DataTech Florida
+* 🎓 Data Expert - DNC  
+* 👷🏽 Software Developer - X25
+* 👨🏽‍💼 Business Consultant - TOTVS
 * 👨‍🎓 Bachelor of Mecatronics - UNIP
 * 🎓 MBA in Project Management - UniCESP
-* 🎓 Data Expert - DNC  
 
 ## About me :wave: 
 * 🔭 I’m currently working on Big Data and BI 
-* 🌱 I’m currently learning Data Scientist, Python, React and NodeJS 
+* 🌱 I’m currently learning Data Scientist, Python and Data Apps 
 * 👯 I’m looking to collaborate on data projects 
 
 ###### I look for opportunities or challenging jobs, in data analysis using data science, machine learning, and artificial intelligence, in ​​the healthcare area or technological innovation, preferably.
@@ -38,6 +38,8 @@
 ### Hard Skills 🛠 
 * 🗄 SQL 
 * 🧮 Power BI 
+* 🧮 Looker Studio 
+* 🧮 Tableau
 * 🛠 MS Excel
 * 🎲 Data Analysis 
 * 📉 Business Intelligence
@@ -90,8 +92,11 @@
 - [ ] Recurrence of Crimes
 - [ ] Customer Satisfaction
 - [ ] Customer Segmentation
+- [ ] Lead Score Analysis
+- [ ] Fraud Analysis
 - [ ] Recommendation System
 - [ ] Financial Credit Analysis
+- [ ] Spectral Computer Vision Analysis
 
 
 ### Technologies and Tools 🚀
