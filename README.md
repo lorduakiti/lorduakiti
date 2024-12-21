@@ -2,13 +2,16 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/lorduakiti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uakiti/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lorduakiti)](https://twitter.com/lorduakiti)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorduakiti@gmail.com)](mailto:uakiti.pires@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=medium&logoColor=white)](https://uakitipires.medium.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lordakiti)](https://twitter.com/uakitipires)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/uakitipires/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/uakitipires/)
-[![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile)
-[![Website Badge]()](https://lorduakiti.me)
-[![Website Badge]()](https://lorduakiti.com.br)
+[![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/5310820/lorduakiti?tab=profile) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@lorduakiti.com.br)](mailto:contact@lorduakiti.com.br)
+<br>
+[![Website Badge](https://img.shields.io/static/v1?label=website&message=lorduakiti.com.br&color=blue&style=for-the-badge&logo=javascript)](https://lorduakiti.com.br) 
+[![Website Badge](https://img.shields.io/static/v1?label=project&message=foooxys&color=red&style=for-the-badge&logo=framework)](https://foooxys.lorduakiti.com.br) 
+
 
 ## Who am I? 
 <div class="row">
@@ -70,7 +73,9 @@
 * 📸 Photography
 
 
-### My projects 🥋
+### My projects 🥋  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorduakiti&repo=FOOOXYS)](https://github.com/anuraghazra/github-readme-stats)
+
 - [x] [WebScraping](https://github.com/lorduakiti/webscraping-to-wordcloud)
 - [ ] Data Visualization (DataViz)
 - [ ] BI Insights
@@ -118,8 +123,8 @@
   <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" height="30" alt="wordpress">  
   <img src="https://cdn.svgporn.com/logos/joomla.svg" height="30" alt="joomla">  
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="docker">
-</div>
-
+</div>  
+  
 
 ### Statistics 📈
 
@@ -129,3 +134,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&theme=react">
   </a>
 </p>
+
+
+[![lorduakiti's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorduakiti)](https://github.com/anuraghazra/github-readme-stats)
+
