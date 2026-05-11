@@ -18,6 +18,7 @@
   <b><p style="color:#d4af37 !important;">Turning DATA into GOLD</p></b>
 </div>
 
+* 🤖 AI Data Engineer - Data Engineering Academy
 * 👨🏽‍💻 Data Analyst - DataTech Florida
 * 👨🏽‍🔬 Data Scientist - DataTech Florida
 * 🎓 Data Expert - DNC  
@@ -39,6 +40,9 @@
 
 
 ### Hard Skills 🛠 
+* 🤖 AI Native
+* 🤖 AI LLMs
+* 🤖 AI Prompts
 * 🗄 SQL 
 * 🧮 Power BI 
 * 🧮 Looker Studio 
@@ -76,6 +80,10 @@
 ### My projects 🥋  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lorduakiti&repo=FOOOXYS)](https://github.com/anuraghazra/github-readme-stats)
 
+- [ ] AI System
+- [ ] AI Agentic
+- [ ] AI Agents Team (open claw)
+- [x] [AI Vibe Coding](https://github.com/lorduakiti/horamundial.com.br)
 - [x] [WebScraping](https://github.com/lorduakiti/webscraping-to-wordcloud)
 - [ ] Data Visualization (DataViz)
 - [ ] BI Insights
@@ -107,6 +115,16 @@
 ### Technologies and Tools 🚀
 
 <div class="row">
+  <img src="https://cdn.svglogos.dev/logos/openai-icon.svg" alt="openai chat gpt" width="30" height="30"/>
+  <img src="https://cdn.svglogos.dev/logos/claude-icon.svg" alt="claude" width="30" height="30"/>
+  <img src="https://cdn.svglogos.dev/logos/perplexity-icon.svg" alt="perplexity" width="30" height="30"/>
+  <img src="https://cdn.svglogos.dev/logos/deepseek-icon.svg" alt="deepseek" width="30" height="30"/>
+  <img src="https://cdn.svglogos.dev/logos/grok-icon.svg" alt="grok" width="30" height="30"/>
+  <img src="https://cdn.svglogos.dev/logos/qwen-icon.svg" alt="qwen" width="30" height="30"/>
+  
+  <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" alt="vs code" width="30" height="30"/>
+  <img src="https://cdn.svglogos.dev/logos/sublimetext-icon.svg" alt="sublime text" width="30" height="30"/>
+  
   <img src="https://img.ibxk.com.br/2016/01/29/29195518729636.jpg" alt="power bi" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
@@ -127,14 +145,15 @@
   
 
 ### Statistics 📈
-
+<br>
 <p align = "center">
   <a href="https://github.com/lorduakiti/">
     <img src="https://github-readme-stats.vercel.app/api?username=lorduakiti&show_icons=true&theme=react&line_height=27">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorduakiti&layout=compact&theme=react">
   </a>
 </p>
-
-
+<br>
+[![lorduakiti GitHub stats](https://github-readme-stats.vercel.app/api?username=lorduakiti)](https://github.com/anuraghazra/github-readme-stats)  
+<br>
 [![lorduakiti's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorduakiti)](https://github.com/anuraghazra/github-readme-stats)
 
